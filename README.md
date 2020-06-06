@@ -18,3 +18,7 @@ This Git repository (aka "repo")—*all the files/folders and their history for 
 ### How To Add A Blog Post
 
 *The steps below roughly follow a Github flow process*
+
+- Fetch and pull the latest code changes on the `master` branch
+
+![fetch](assets/fetch.png)
