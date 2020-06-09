@@ -4,7 +4,8 @@ title:  "Template Post"
 author: "Template Author"
 ---
 
-ddddddddddddd
+Create a copy of this file in the `_posts` folder and replace this text and everything below with your own content. Leave the text values between the dashes `---` above in this file and remember to rename the title and author values.
+
 Some quick markdown (this file type) tips:
 
 # headings begin with a hash symbol
